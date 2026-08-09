@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-916qcc.cuansalam.sbs/sitemap.xml
